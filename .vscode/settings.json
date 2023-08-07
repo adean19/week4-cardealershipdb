@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://dgnwdyhq:u11hBHk_nL1o_-Z3yjvoICpAzytsvaKi@mahmud.db.elephantsql.com/dgnwdyhq",
+            "name": "padawan-car-dealership"
+        }
+    ]
+}
